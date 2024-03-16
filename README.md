@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NISHANT SHUKLA</h1>
+<h1 align="center">Hi , I'm NISHANT SHUKLA</h1>
 <h3 align="center">COMPETITIVE PROGRAMMER. & wise</h3>
 <div> <a href="https://www.linkedin.com/in/nishantshukla7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/IAMNISHANTSHUKLA" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
